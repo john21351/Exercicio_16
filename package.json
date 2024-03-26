@@ -1,0 +1,26 @@
+{
+  "name": "exercicio16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "gulp-imagemin": "gulp-imagemin",
+    "sass": "sass",
+    "gulp-uglify": "gulp-uglify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "imagemin": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.72.0"
+  }
+}
